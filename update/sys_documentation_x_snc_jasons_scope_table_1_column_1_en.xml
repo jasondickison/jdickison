@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="column_1" label="Column 1" language="en" table="x_snc_jasons_scope_table_1">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>column_1</element>
+            <help/>
+            <hint/>
+            <label>Column 1</label>
+            <language>en</language>
+            <name>x_snc_jasons_scope_table_1</name>
+            <plural>Column 1s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>jason.dickison@snc</sys_created_by>
+            <sys_created_on>2020-03-30 17:45:48</sys_created_on>
+            <sys_id>8c4b29be1bbf801071be76afdc4bcb6d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Column 1</sys_name>
+            <sys_package display_value="Jasons Scope" source="x_snc_jasons_scope">2b58a93e1bbf801071be76afdc4bcb64</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Jasons Scope">2b58a93e1bbf801071be76afdc4bcb64</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_jasons_scope_table_1_column_1_en</sys_update_name>
+            <sys_updated_by>jason.dickison@snc</sys_updated_by>
+            <sys_updated_on>2020-03-30 17:45:48</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
